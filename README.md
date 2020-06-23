@@ -1,6 +1,8 @@
 # WPWatcher
 Wordpress Watcher is a wrapper for [WPScan](http://wpscan.org/) that manages scans on multiple sites and reports by email
 
+## New maintained version: https://github.com/tristanlatr/WPWatcher
+
 ## In a Nutshell
 
   - Scan multiple sites with WPScan
